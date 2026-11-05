@@ -1,5 +1,5 @@
 # nvatlas-test
-This is test website veing used in the TT class. 
+This is a test website being used in the TT class.
 
 ## Description
 This is a *test website* being used in the TT class.
